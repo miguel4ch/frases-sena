@@ -1,5 +1,14 @@
+
+La programación se vuelve sencilla con el tiempo
+1. La programación es el superpoder que te permite dejar de ser un usuario de la tecnología para convertirte en su arquitecto
+2. Mientras otros ven problemas, un programador ve un algoritmo esperando ser escrito
+3. Programar es enseñarle a una máquina a hacer el trabajo repetitivo por ti, liberando tu mente para la creatividad y la innovación
+4. Con unas pocas líneas de código, puedes construir herramientas que resuelvan problemas reales para millones de personas en todo el mundo.
+5. Aprender a programar no es solo aprender un lenguaje, es adquirir la habilidad universal de transformar ideas abstractas en realidades funcionales.
+
 1. La programación se vuelve sencilla con el tiempo
 2. Los desarrolladores son arquitectos
 3. Desarrollar software ayuda a agilizar la mente
 4. La programación no solo sirve para la vida laboral
 5. El desarrollo de software no es un trabajo individual hay que trabajar en equipo
+
