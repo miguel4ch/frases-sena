@@ -2,3 +2,4 @@
 2. Los desarrolladores son arquitectos
 3. Desarrollar software ayuda a agilizar la mente
 4. La programación no solo sirve para la vida laboral
+5. El desarrollo de software no es un trabajo individual hay que trabajar en equipo
