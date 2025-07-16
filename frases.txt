@@ -1,3 +1,5 @@
 La programación se vuelve sencilla con el tiempo
 1. La programación es el superpoder que te permite dejar de ser un usuario de la tecnología para convertirte en su arquitecto
 2. Mientras otros ven problemas, un programador ve un algoritmo esperando ser escrito
+3. Programar es enseñarle a una máquina a hacer el trabajo repetitivo por ti, liberando tu mente para la creatividad y la innovación
+4. Con unas pocas líneas de código, puedes construir herramientas que resuelvan problemas reales para millones de personas en todo el mundo.
