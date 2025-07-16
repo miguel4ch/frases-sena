@@ -1,1 +1,3 @@
 La programación se vuelve sencilla con el tiempo
+1. La programación es el superpoder que te permite dejar de ser un usuario de la tecnología para convertirte en su arquitecto
+2. Mientras otros ven problemas, un programador ve un algoritmo esperando ser escrito
