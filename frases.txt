@@ -1,2 +1,4 @@
 1. La programación se vuelve sencilla con el tiempo
 2. Los desarrolladores son arquitectos
+3. Desarrollar software ayuda a agilizar la mente
+4. La programación no solo sirve para la vida laboral
